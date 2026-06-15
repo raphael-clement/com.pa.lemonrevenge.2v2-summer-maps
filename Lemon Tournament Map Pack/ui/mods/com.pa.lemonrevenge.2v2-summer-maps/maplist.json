@@ -1,0 +1,12 @@
+cShareSystems.load_pas("2v2 Summer Tournament", [
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/(4p_ffa)_bloodshot.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/1v1-2v2_Mion-9_1.1.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/1v1-3v3_Drinker_1.5.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/cobble_pass 2v2 ns.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/dual_lake.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/frozenoreoyoughurt_2v2_ns.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/high_and low [Lemon tournament rework].pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/locket_2v2_ns.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/thief's pass 2v2 ns.pas
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/t-kure atoll 2v2 ns.pas
+]);

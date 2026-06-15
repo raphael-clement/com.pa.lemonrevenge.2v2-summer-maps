@@ -1,0 +1,30 @@
+{
+    "context": "client",
+    "identifier": "com.pa.lemonrevenge.2v2-lemonrevenge-maps",
+    "display_name": "Lemonrevenge 2v2 Summer Tournament Map Pack",
+    "description": "10 2v2 maps for the legion-mla summer tournament",
+    "author": "Lemonrevenge",
+    "version": "1.0.0",
+    "build": "124651",
+    "date": "2026-06-15",
+    "forum": "https://steamcommunity.com/app/386070/discussions/0/805719856669440922/",
+    "icon": "https://i.imgur.com/jtTEm7Y.gif",
+    "category": [
+        "maps",
+        "pack",
+        "systems",
+        "planet",
+        "planets"
+    ],
+    "load_planet": [
+        "coui://ui/mods/com.pa.lemonrevenge.2v2-lemonrevenge-maps/maplist.js"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ],
+    "authors": [
+        "Lemonrevenge"
+    ]
+}
